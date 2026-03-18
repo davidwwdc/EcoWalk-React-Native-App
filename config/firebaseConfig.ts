@@ -9,10 +9,10 @@ import { initializeApp } from 'firebase/app';
 
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: 'AIzaSyAUB96ZGotxHb0R6EdjCgH1IVmt3Boqhvc',
-  authDomain: 'comp5216-wwan0284.firebaseapp.com',
-  databaseURL: 'https://comp5216-wwan0284.firebaseio.com',
-  projectId: 'comp5216-wwan0284',
+  apiKey: 'apiKey',
+  authDomain: 'authDomain',
+  databaseURL: 'databaseURL',
+  projectId: 'projectId',
   storageBucket: 'project-id.appspot.com',
   messagingSenderId: 'sender-id',
   appId: 'app-id',
